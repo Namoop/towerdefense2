@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "lib": ["esnext", "dom"],
+      "module": "ESNext",
+      "strict": true,
+      "allowJs": true,
+      "sourceMap": true,
+      "inlineSources": true,
+      "noUnusedLocals": true,
+      "allowSyntheticDefaultImports": true,
+      "experimentalDecorators": true,
+    }
+  }
+  
